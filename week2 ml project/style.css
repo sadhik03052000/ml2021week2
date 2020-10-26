@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://cdn2.vectorstock.com/i/1000x1000/99/91/present-card-in-night-theme-vector-4379991.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .bot {
+    background-color: lightyellow;
+    border-radius: 20px;
+    border-color: black;
+    color:black;
+    width: 50%;
+    padding-left: 15px;
+  }
+  #bot1{
+    border-radius: 20px;
+  }
+  .bot:hover{
+    width: 100%;
+    background-color: lightslategray;
+  }
+  .input:hover{
+    width: 100%;
+    background-color: lightslategray;
+  }
+  .input {
+    font-size: 100%;
+    font-style: bold;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+    background-color: lightgoldenrodyellow;
+    color:rgb(0, 0, 0);
+    text-align: left;
+    float: right;
+  }
+  .buttoninput {
+    float: right;
+    width: 20px;
+    height: 20px;
+    alt: send;
+  }
