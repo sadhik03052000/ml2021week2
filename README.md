@@ -11,7 +11,7 @@ Name of the bot is **EmergencyServicesBot**. It helps users **to know the number
 ## Working Of The Bot:
 * The programme Script of chatbot contains **2** user defnes functions namely-<br />
               **1.** welcome()<br />
-              **2.**choose()<br />
+              **2.** choose()<br />
 * When we run the program the following steps will be performed respectively...<br />
            **1.** Firstly webpage contains a welcome not0e which greets user and introduces itself as SAP and **asks to enter user name**.<br />
            **2.** After user enters name then user need to click NEXT button.<br />
