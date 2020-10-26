@@ -3,9 +3,9 @@
   #### 1. Keerthana<br />
          1a. git username - keerthana360
          1b. reg number - 19pa1a12a9
-  #### 1. Sadhik<br />
-         1a. git username - sadhik03052000
-         1b. reg number - 19pa1a05c7
+  #### 2. Sadhik<br />
+         2a. git username - sadhik03052000
+         2b. reg number - 19pa1a05c7
 ## Objective Of The Bot:<br />
 Name of the bot is **EmergencyServicesBot**. It helps users **to know the numbers of emergency services that user asks to the bot**.<br />
 ## Working Of The Bot:
